@@ -27,7 +27,7 @@ steps:
     inputs:
       app_location: "/"
       api_location: "api"
-      output_location: "dist/meme4fun"
+      output_location: "dist/guruui"
     env:
       azure_static_web_apps_api_token: $(deployment_token)
 
